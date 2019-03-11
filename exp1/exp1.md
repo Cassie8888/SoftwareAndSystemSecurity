@@ -1,5 +1,7 @@
 ### 实验1
 
+**要求：编写一个release版本的 hello world 程序。通过修改程序可执行文件的方式（不是修改源代码），使得程序运行后显示的内容不为hello world，变成 hello cuc！**
+
 ```hello world```程序源码为：
 ```txt
 #include <windows.h>
